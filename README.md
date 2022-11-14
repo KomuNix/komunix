@@ -1,0 +1,2 @@
+# komunix
+info nix mazseh!
